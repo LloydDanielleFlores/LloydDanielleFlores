@@ -1,3 +1,9 @@
+<style>
+img{
+  width="500" ;
+  height="333";}
+<style/> 
+  
 <h1>I’m Lloyd Danielle Flores<h1/>
 <h1>EDUCATION</h1>
 <h4>  I'm currently pursuing a degree in Information Technology at New Era University<h4/>
